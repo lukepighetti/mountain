@@ -4,6 +4,4 @@ I am stuck on this mountain and I'm not sure how to get off. It's really slipper
 
 I might need to build some tools. 
 
-1) show inventory
-2) show stats
-3) show map
+Some ideas for things you can ask me: https://github.com/lukepighetti/mountain/blob/main/megaphone/index.js#L4
