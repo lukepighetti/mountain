@@ -1,7 +1,7 @@
 const Client = require('tmi.js').Client;
 
 const channel = 'lukepighetti';
-const message = "Help me get off this mountain... it's too slippery!";
+const message = "Help me get off this mountain... it's too slippery! Things you can ask me: show inventory, show stats, show map, look around, pick up item, take exit";
 
 const client = Client({
   "channels": [channel],

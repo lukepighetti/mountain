@@ -1,7 +1,9 @@
 # mountain
 
-I am stuck on this mountain and I'm not sure how to get off. 
-Ideas for what you can ask me:
+I am stuck on this mountain and I'm not sure how to get off. It's really slippery.
 
-1) show map
-2) 
+I might need to build some tools. 
+
+1) show inventory
+2) show stats
+3) show map
